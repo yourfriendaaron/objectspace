@@ -1,0 +1,11 @@
+# Rust
+/target/
+**/*.rs.bk
+*.pdb
+
+# Objectspace bootstrap store
+*.img
+
+# Editor / OS
+.DS_Store
+*.swp
